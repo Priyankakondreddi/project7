@@ -1,0 +1,40 @@
+body{
+ text-align:center;
+ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+hr{
+    background-color:rgb(200, 127, 31);
+}
+header{
+    background-color:black;
+    color:white;
+    padding:2px;
+    word-spacing:0cap;
+}
+ul li{
+    display:inline;
+    padding:15px;
+}
+ul li a{
+    color:antiquewhite;
+    text-decoration:none;
+}
+main{
+    background-color:rgb(163, 157, 157);
+}
+#home img{
+    height:250px;
+    width:250px;
+    border-radius:50%;
+    background-color:rgb(163, 157, 157);
+}
+#Portfolio{
+    padding:10px;
+    background-color:rgb(163, 157, 157);
+    display:block; 
+}
+footer{
+    background-color:black;
+    color:white;
+    padding:20px;
+}
